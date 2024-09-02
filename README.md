@@ -110,7 +110,7 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ```
 ## AndroidManifest.xml
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
@@ -141,9 +141,10 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## Output:
 
-![Output](java4a.png)
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/bec53111-fc8c-4178-af9f-eb2e8c6e6808">
 
-![Output](java4b.png)
+![Screenshot 2024-09-02 210538](https://github.com/user-attachments/assets/79abab89-5c1b-4790-82e6-489cb3d76826)
+
 
 ## Result:
 Thus a Simple Android Application to create your own content providers get contact details using Android Studio was developed and executed successfully.
